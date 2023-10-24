@@ -1,0 +1,20 @@
+#zolta {
+    font-family: arial, serif;
+    color: green;
+    font-size: 12px;
+    border: 2px solid yellow;
+}
+
+#czerwona {
+    font-family: arial, serif;
+    color: red;
+    font-size: 14px;
+    border: 3px solid orange;
+}
+
+#niebieska {
+    font-family: arial, serif;
+    color: blue;
+    font-size: 16px;
+    border: 4px solid cyan;
+}
